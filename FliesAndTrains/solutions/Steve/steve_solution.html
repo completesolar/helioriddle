@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Two Trains, One Fly</title>
+	<script type="text/javascript" src="http://code.jquery.com/qunit/qunit-1.17.1.js"></script>
+	<link rel="stylesheet" href="http://code.jquery.com/qunit/qunit-1.17.1.css"></link>
+	<style>
+		#form_div {
+			margin: 20px 20px 50px 20px;
+			display: block;
+		}
+		label {
+			width: 50px;
+		}
+	</style>
+</head>
+<body>
+	<div id="form_div">
+		<h3>A Tale of Two Trains (and a fly)</h3>
+		<input type="number" id="distance"></input>
+		<label>Total Distance</label><br />
+		<input type="number" id="trainA"></input>
+		<label>Train A's speed</label><br />
+		<input type="number" id="trainB"></input>
+		<label>Train B's speed</label><br />
+		<input type="number" id="fly"></input>
+		<label>Fly's speed</label><br />
+		<button id="submit-btn">Submit</button><br />
+		<span id="answer"></span>
+	</div>
+
+	<div id="qunit"></div>
+	<div id="qunit-fixture"></div>
+	<script type="text/javascript" src="steve_solution.js"></script>
+</body>
+</html>
