@@ -1,0 +1,4 @@
+A Fly In Between Trains
+
+Two trains are traveling toward each other on the same track, each at 60 miles per hour. When they are exactly 120 miles apart, a fly takes off from the front of one of the trains, flying toward the other train at a constant rate of 100 miles per hour. When the fly reaches the other train, it instantly changes directions and starts flying toward the other train, still at 100 miles per hour. It keeps doing this back and forth until the trains finally collide.
+If you add up all the distances back and forth that the fly has traveled, how much total distance has the fly traveled when the trains finally collide?
