@@ -1,0 +1,6 @@
+Prisoners and a Light bulb
+
+There is a prison with 100 prisoners, each in separate cells, which are sealed off, soundproof and windowless. There is a lobby in the prison with a light bulb in it. Each day, the warden will pick one of the prisoners at random (even if they have been picked before) and take them out to the lobby. The prisoner will have the choice to flip the light bulb switch if they want. The light bulb starts in the "off" position.
+When a prisoner is brought out to the lobby, he also has the option of saying "Every other prisoner has been brought out to the lobby." If a prisoner chooses to say this and it is true, all the prisoners will go free. However, if a prisoner chooses to say this and it's wrong, all the prisoners will be executed. So a prisoner should only say this if he knows it is true for sure.
+Before the first day of this process begins, all the prisoners are allowed to get together to discuss a strategy to eventually save themselves.
+What strategy could they use to ensure their eventual salvation?
