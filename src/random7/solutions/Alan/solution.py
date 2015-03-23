@@ -27,7 +27,7 @@ average = sum(vals) / float(tries)
 # average should be around 4
 print average
 
-$the number of values in each of these arrays should be about tries / 7
+#the number of values in each of these arrays should be about tries / 7
 sevens = [1 for x in vals if x==7]
 print "7:",len(sevens)
 sixes = [1 for x in vals if x==6]
