@@ -16,7 +16,7 @@ The runtime is determined by the number of times you need to generate a randomIn
 
 On expectation you run it:
 let b1 be the expected number of times it takes to get 1 bit:
-b1 = Sum( (1/5)^(1-n) * (4/5) * n , from n=1 to n = infinity )
+b1 = Sum( (1/5)^(1-n) * (4/5) , from n=1 to n = infinity )
 
 let e be the expected number of times it takes to get your random integer from 1 to 7:
-b = sum( (1/8)^(1-m) * (7/8) * m, from m=1 to m = infinity )
+b = sum( (1/8)^(1-m) * (7/8), from m=1 to m = infinity )
