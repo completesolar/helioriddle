@@ -1,0 +1,7 @@
+On Bagshot Island, there is an airport. The airport is the homebase of an unlimited number of identical airplanes. Each airplane has a fuel capacity to allow it to fly exactly 1/2 way around the world, along a great circle. The planes have the ability to refuel in flight without loss of speed or spillage of fuel. Though the fuel is unlimited, the island is the only source of fuel.
+What is the fewest number of aircraft necessary to get one plane all the way around the world assuming that all of the aircraft must return safely to the airport? How did you get to your answer?
+Notes:
+(a) Each airplane must depart and return to the same airport, and that is the only airport they can land and refuel on ground.
+(b) Each airplane must have enough fuel to return to airport.
+(c) The time and fuel consumption of refueling can be ignored. (so we can also assume that one airplane can refuel more than one airplanes in air at the same time.)
+(d) The amount of fuel airplanes carrying can be zero as long as the other airplane is refueling these airplanes. What is the fewest number of airplanes and number of tanks of fuel needed to accomplish this work? (we only need one airplane to go around the world)
